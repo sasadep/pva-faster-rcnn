@@ -2,11 +2,11 @@
 
 
 ### Installation
+
 * Clone the Faster R-CNN repository
-    ```Shell
-    # Make sure to clone with --recursive
-    git clone --recursive https://github.com/sasadep/pva-faster-rcnn.git
-    ```
+###### Make sure to clone with --recursive
+    `git clone --recursive https://github.com/sasadep/pva-faster-rcnn.git`
+   
 * clone CPU only configurations settings 
 
 	```Shell
